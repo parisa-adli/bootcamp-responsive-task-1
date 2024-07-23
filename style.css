@@ -23,7 +23,7 @@ html {
   font-size: 62.5%;
 }
 body {
-  font-family: "vazir", sans-serif;
+  font-family: "Vazirmatn", sans-serif;
   color: var(--color-primary-500);
 }
 a {
@@ -86,7 +86,7 @@ button {
   border-radius: var(--border-radius-sm);
   font-weight: bold;
   color: var(--color-primary-300);
-  font-family: "vazir";
+  font-family: "Vazirmatn";
 }
 .upload__title {
   font-weight: bold;
@@ -125,7 +125,7 @@ button {
   border-radius: var(--border-radius-md);
   color: var(--color-primary-0);
   font-weight: 900;
-  font-family: vazir;
+  font-family: Vazirmatn;
 }
 /* .btn--primary{
   background-color: var(--color-primary-200);
